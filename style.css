@@ -1,0 +1,18 @@
+p{
+    font: size 70px;
+    color: blueviolet;
+}
+#p1{
+    color:pink;
+}
+#p2{
+    color: blanchedalmond;
+}
+.cl1{
+    color: aqua;
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    font-size: 65px;
+}
